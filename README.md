@@ -2,7 +2,8 @@
 
 
 
-**Summary**
+**Summary:**
+
 This Document outlines the list of git commands which has been discussed till now  in Devops git & github.
 
 
